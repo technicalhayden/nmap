@@ -266,4 +266,6 @@ This *must* be a multiple of 8.
 4. **OS Version Detection** 
 4. **Provide crucial information like devices types, reverse DNS names, MAC addresses.** 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
+
 
